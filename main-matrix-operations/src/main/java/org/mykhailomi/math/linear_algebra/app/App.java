@@ -1,9 +1,9 @@
-package org.mykhailomi.math.linearalgebra.app;
+package org.mykhailomi.math.linear_algebra.app;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.mykhailomi.math.linearalgebra.conf.AppConfiguration;
-import org.mykhailomi.math.linearalgebra.matrix.MainMatrixOperations;
+import org.mykhailomi.math.linear_algebra.conf.AppConfiguration;
+import org.mykhailomi.math.linear_algebra.matrix.MainMatrixOperations;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.ConfigurableApplicationContext;
