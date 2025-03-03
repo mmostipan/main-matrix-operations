@@ -1,4 +1,4 @@
-package org.mykhailomi.math.linear_algebra.conf;
+package org.mykhailomi.main_matrix_operations.app.conf;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;

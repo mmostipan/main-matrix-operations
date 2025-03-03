@@ -1,4 +1,4 @@
-package org.mykhailomi.math.linear_algebra.matrix;
+package org.mykhailomi.main_matrix_operations.matrix;
 
 import org.springframework.stereotype.Component;
 
